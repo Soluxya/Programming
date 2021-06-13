@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Oldenburg&display=swap");
+* {
+	font-family: "Oldenburg", cursive;
+    border-spacing: 5px;
+    padding: 1px;
+}
+
+.Image {
+	max-width: 300px;
+	height: auto;
+}
+.table_1 {
+	border-spacing: 5px;
+}
+table {
+	border: solid;
+}
+.table_2 {
+	border-spacing: 10px;
+}
+div{
+    margin-bottom: 20px;
+}

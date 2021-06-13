@@ -1,0 +1,1 @@
+@py.exe C:\Users\solux\Documents\Projects\Programming\Udemy\Boring Stuff with Python\Section 13 -- Web Scraping\mapit.py %*
